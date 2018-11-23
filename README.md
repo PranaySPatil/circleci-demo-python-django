@@ -4,7 +4,7 @@
 
 This is an example application showcasing how to build test and deploy a Django app on CircleCI 2.0.
 
-You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-python/).
+You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-python/)..
 
 ## Features of the demo
 
